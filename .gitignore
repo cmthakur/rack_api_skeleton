@@ -1,0 +1,10 @@
+*.gem
+*.rbc
+.bundle
+bin
+.config
+config/*.yml
+!config/*.example.yml
+*.log
+*.pid
+.secrets
