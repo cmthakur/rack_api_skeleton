@@ -14,6 +14,7 @@ gem 'newrelic-redis'
 gem 'pg'
 # Use activerecord
 gem 'activerecord'
+gem 'sinatra-activerecord'
 
 gem 'tux'
 gem 'honeybadger'
